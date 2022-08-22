@@ -2,8 +2,6 @@
 
 <img src="https://user-images.githubusercontent.com/86102231/152484018-6eb68d01-6418-4819-8f1e-c5bbee886bd7.gif" width="800" height="500">
 
-<img src="https://www.coursera.org/api/certificate.v1/pdf/87UVDMHPVH3E">
-
 ## Author : [Jeffrey Okonkwo](https://www.linkedin.com/in/jeffreyokonkwo/) 
 
 ### This Project is the Data Analyst Capstone Project of the IBM Data Analyst Professional Certificate
@@ -69,7 +67,7 @@ What are the popular IDEs?
 
 ## Audience
 
-Human Resource and IT Head.
+Human Resource, Aspiring Data Anlayst and the IT team.
 
 # Hardware and Software Requirments
 
