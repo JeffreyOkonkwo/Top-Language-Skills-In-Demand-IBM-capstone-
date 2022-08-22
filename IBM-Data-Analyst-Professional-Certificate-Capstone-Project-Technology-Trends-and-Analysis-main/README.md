@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/86102231/152484018-6eb68d01-6418-4819-8f1e-c5bbee886bd7.gif" width="800" height="500">
 
-<img src="https://coursera.org/share/32161b5cc46704f04b66c195a51dd90b" width="800" height="500">
+<img src="https://www.coursera.org/api/certificate.v1/pdf/87UVDMHPVH3E">
 
 ## Author : [Jeffrey Okonkwo](https://www.linkedin.com/in/jeffreyokonkwo/) 
 
