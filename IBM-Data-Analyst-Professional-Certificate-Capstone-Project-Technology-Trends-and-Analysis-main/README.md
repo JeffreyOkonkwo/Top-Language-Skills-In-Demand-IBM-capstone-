@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/86102231/152484018-6eb68d01-6418-4819-8f1e-c5bbee886bd7.gif" width="800" height="500">
 
-## Author : [GAURAB KUNDU](https://www.linkedin.com/in/gaurab-kundu-020803) 
+## Author : [Jeffrey Okonkwo](https://www.linkedin.com/in/jeffreyokonkwo/) 
 
 ### This Project is the Data Analyst Capstone Project of the IBM Data Analyst Professional Certificate
 
@@ -12,23 +12,7 @@
 
 # Project Description
 
-As a Data Analyst, I have been tasked with collecting data from various sources and identifying trends for this year's report on emerging skills.
-
-My first task is to collect the top programming skills that are most in demand from various sources including:
-
-Job postings
-
-Training portals
-
-Surveys
-
-Once I have collected enough data, I will begin analyzing the data and identify insights and trends that may include the following:
-
-What are the top programming languages in demand?
-
-What are the top database skills in demand?
-
-What are the popular IDEs?
+Being a Data/Business Analyst requires constant learning. The ability to always be in tune with the pulse of the industry is mandatory. Knowing how to use what is hot and trending keeps an analyst in demand. Thus, I have been tasked with obtaining data from various sources and identifying the trends for emerging skills needed in the world of analysis in 2021. The gathering of data begins with web scrapping reputable job/ training sites and surveys in order to streamline top reoccurring skills amongst top data analyst job postings. Once a sufficient amount of data has been collected, an in-depth analysis would be conducted to identify trends relating to:
 
 # Outline 
 
